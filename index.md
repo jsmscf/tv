@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en-gb" dir="ltr">
 
-You can use the [editor on GitHub](https://github.com/jsmscf/tv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+    <head>
+        <title>UIkit</title>
+        <meta charset="utf-8">
+        <link rel="shortcut icon" href="images/favicon.png">
+        <link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon.png">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:site" content="@getuikit">
+        <meta name="twitter:image" content="https://getuikit.com/images/uikit-meta.png">
+        <meta property="og:locale" content="en_GB">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="UIkit">
+        <meta property="og:description" content="UIkit, a lightweight and modular front-end framework for developing fast and powerful web interfaces.">
+        <meta property="og:url" content="https://getuikit.com/">
+        <meta property="og:site_name" content="UIkit">
+        <meta property="og:image" content="https://getuikit.com/images/uikit-meta.png">
+        <link rel="stylesheet" href="css/theme.css?583">
+        <script src="https://www.google-analytics.com/analytics.js" async></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.3.2/autotrack.js" async></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.6/marked.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.2.6/vue.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vue-router/2.5.1/vue-router.min.js"></script>
+        <script src="assets/uikit/dist/js/uikit.min.js?583" defer></script>
+        <script src="assets/uikit/dist/js/uikit-icons.min.js?583" defer></script>
+        <script src="app/main.min.js?583" defer></script>
+    </head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <body>
+        <div id="app"></div>
+    </body>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jsmscf/tv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
